@@ -1,6 +1,6 @@
 # <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=fb7185&height=300&section=header&text=David%20Saavedra&desc=Backend%20Developer%20|%20Software%20Engineer&descSize=20&fontSize=60&fontColor=fff&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=300&section=header&text=David%20Saavedra&desc=Backend%20Developer%20|%20Software%20Engineer&descSize=20&fontSize=60&fontColor=fff&animation=fadeIn)
 
 </div>
 
@@ -12,8 +12,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidsaavedra/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesardavidsaavedra@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidsaavedra/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesardavidsaavedra@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidSaavedraDev)
 
 </div>
@@ -62,9 +62,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidSaavedraDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=fb7185&text_color=e0e6ed&icon_color=fb7185&ring_color=fb7185)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidSaavedraDev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e6edf3&icon_color=6366f1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSaavedraDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=fb7185&text_color=e0e6ed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSaavedraDev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e6edf3)
 
 </div>
 
@@ -131,6 +131,6 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=DavidSaavedraDev&color=fb7185&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=DavidSaavedraDev&color=6366f1&style=flat-square)
 
 </div>
