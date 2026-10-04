@@ -73,6 +73,7 @@
 ## ⚡ Actividad Reciente
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2](https://github.com/DavidSaavedraDev/fashion_boutique/pull/2) in [DavidSaavedraDev/fashion_boutique](https://github.com/DavidSaavedraDev/fashion_boutique)
 <!--END_SECTION:activity-->
 
 ---
