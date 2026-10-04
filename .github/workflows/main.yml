@@ -1,0 +1,44 @@
+name: Actualizar README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # cada 6 horas
+  workflow_dispatch:         # botón manual en la pestaña Actions
+  push:
+    branches: [main]
+    paths-ignore:
+      - "README.md"          # evita bucles infinitos
+
+permissions:
+  contents: write            # necesario para hacer commit
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 1) Actividad reciente de GitHub
+      - name: Actividad reciente
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 5
+          COMMIT_MSG: "chore: actualizar actividad reciente"
+
+      # 2) Fecha de última actualización
+      - name: Actualizar fecha
+        run: |
+          FECHA=$(date -u +"%Y-%m-%d %H:%M UTC")
+          sed -i "/<!-- UPDATED:START -->/,/<!-- UPDATED:END -->/c\<!-- UPDATED:START -->\n_Actualizado: ${FECHA}_\n<!-- UPDATED:END -->" README.md
+
+      # 3) Commit solo si hay cambios
+      - name: Commit y push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: actualizar README automáticamente"
+          git push
