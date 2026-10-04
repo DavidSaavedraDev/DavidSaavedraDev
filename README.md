@@ -1,41 +1,136 @@
-## Hi there 👋
+# <div align="center">
 
-<!--
-**DavidSaavedraDev/DavidSaavedraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=fb7185&height=300&section=header&text=David%20Saavedra&desc=Backend%20Developer%20|%20Software%20Engineer&descSize=20&fontSize=60&fontColor=fff&animation=fadeIn)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-👋 ¡Hola! Soy César David Saavedra Pinzón
+---
 
-Desarrollador Web Backend especializado en crear soluciones robustas y escalables. Estudiante de Ingeniería de Software con pasión por la arquitectura de software y las mejores prácticas de desarrollo.
-🚀 Acerca de mí
-Soy un desarrollador con base sólida en backend con experiencia en diseño de bases de datos, APIs y arquitectura MVC. Actualmente cursando:
+## 👋 ¡Hola! Soy David Saavedra
 
-🎓 Ingeniería de Software — Politécnico Grancolombiano
+> **Desarrollador Web Backend** especializado en crear soluciones robustas, escalables y de alta calidad. Apasionado por la arquitectura de software, las mejores prácticas y la innovación tecnológica.
 
-📚 Tecnólogo en ADSO — Análisis y Desarrollo de Software
+<div align="center">
 
-Me apasiona escribir código limpio, mantener estándares profesionales y crear aplicaciones que resuelvan problemas reales.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidsaavedra/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesardavidsaavedra@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidSaavedraDev)
 
-💻 Tecnologías & Herramientas
-Lenguajes & Bases de Datos
-Bases de Datos
-Frameworks & Librerías
-Herramientas & Plataformas
-📊 Estadísticas de GitHub
-🎯 Proyectos Destacados
-🔧 Gestión Integral para Talleres Mecánicos
-Sistema web completo desarrollado con PHP, Patrón MVC y MySQL. Gestiona inventario, citas, clientes y órdenes de servicio con una interfaz intuitiva y responsiva.
+</div>
 
-Tecnologías: PHP | MySQL | Bootstrap | JavaScript
+---
 
-📬 Conecta Conmigo
+## 📚 Acerca de mí
+
+```
+👨‍💻 Rol: Desarrollador Web Backend
+🎓 Estudios:
+   • Ingeniería de Software — Politécnico Grancolombiano
+   • Tecnólogo en ADSO — Análisis y Desarrollo de Software
+📍 Ubicación: Bogotá, Colombia
+🚀 Especialidad: Arquitectura MVC, APIs RESTful, Bases de Datos
+💡 Filosofía: "Código limpio, soluciones sostenibles"
+```
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### 🔧 Backend & Lenguajes
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 📊 Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🎨 Frontend & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🔨 Herramientas & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidSaavedraDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=fb7185&text_color=e0e6ed&icon_color=fb7185&ring_color=fb7185)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSaavedraDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=fb7185&text_color=e0e6ed)
+
+</div>
+
+---
+
+## ⚡ Actividad Reciente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 🎯 Proyectos Destacados
+
+### 🔧 Gestión Integral para Talleres Mecánicos
+
+**Sistema web profesional de gestión empresarial**
+
+- **Descripción:** Plataforma completa para administración de talleres mecánicos con gestión de inventario, citas, clientes y órdenes de servicio
+- **Stack:** PHP (Patrón MVC) | MySQL | Bootstrap | JavaScript
+- **Características:**
+  - ✅ Gestión de clientes y citas
+  - ✅ Inventario de repuestos y herramientas
+  - ✅ Órdenes de servicio con seguimiento
+  - ✅ Interfaz responsiva e intuitiva
+  - ✅ Base de datos normalizada
+
+---
+
+## 💼 Experiencia & Habilidades
+
+| Área | Habilidades |
+|------|-------------|
+| **Backend** | PHP MVC, APIs RESTful, Diseño de Bases de Datos |
+| **Frontend** | HTML5, CSS3, Bootstrap, JavaScript Vanilla |
+| **Bases de Datos** | MySQL, PostgreSQL, Diseño Relacional |
+| **DevOps** | Git, GitHub, Control de Versiones |
+| **Soft Skills** | Resolución de problemas, Trabajo en equipo, Comunicación |
+
+---
+
+## 📚 Lo que estoy aprendiendo
+
+- 🔄 Arquitecturas avanzadas (Clean Architecture, SOLID)
+- 🐘 PHP Moderno (Composer, Frameworks modernos)
+- 🔐 Seguridad en aplicaciones web
+- ☁️ Despliegue y DevOps
+- 📱 Desarrollo Full Stack
+
+---
+
+## 🕐 Última Actualización
+
+<!-- UPDATED:START -->
+<!-- UPDATED:END -->
+
+---
+
+<div align="center">
+
+### 💡 *"El código limpio no es un lujo, es una necesidad"*
+
+### 🚀 Siempre aprendiendo, siempre mejorando
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=DavidSaavedraDev&color=fb7185&style=flat-square)
+
+</div>
