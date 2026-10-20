@@ -1,6 +1,6 @@
 # <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=6366f1,8b5cf6,ec4899&height=300&section=header&text=David%20Saavedra&desc=Backend%20Developer%20|%20Software%20Engineer&descSize=20&fontSize=60&fontColor=fff&animation=fadeIn&rotate=2&box=false)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=300&section=header&text=David%20Saavedra&desc=Backend%20Developer%20|%20Software%20Engineer&descSize=20&fontSize=60&fontColor=fff&animation=fadeIn)
 
 </div>
 
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidSaavedraDev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e6edf3&icon_color=6366f1&ring_color=8b5cf6&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidSaavedraDev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e6edf3&icon_color=6366f1)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSaavedraDev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e6edf3)
 
