@@ -24,7 +24,7 @@
 
 👨‍💻 Rol: Desarrollador Web Backend
 🎓 Estudios:
-• Ingeniería de Software — Politécnico Grancolombiano
+• Ingeniería de Software 
 • Tecnólogo en ADSO — Análisis y Desarrollo de Software
 📍 Ubicación: Bogotá, Colombia
 🚀 Especialidad: Arquitectura MVC, APIs RESTful, Bases de Datos
