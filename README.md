@@ -72,7 +72,7 @@
 ## ⚡ Actividad Reciente
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/DavidSaavedraDev/fashion_boutique/pull/2) in [DavidSaavedraDev/fashion_boutique](https://github.com/DavidSaavedraDev/fashion_boutique)
+1. 🎉 Merged PR [#2](https://github.com/DavidSaavedraDev/skills-introduction-to-git/pull/2) in [DavidSaavedraDev/skills-introduction-to-git](https://github.com/DavidSaavedraDev/skills-introduction-to-git)
 <!--END_SECTION:activity-->
 
 ---
