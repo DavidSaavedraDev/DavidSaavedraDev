@@ -70,7 +70,7 @@
 ## 🏆 Mis Trofeos de GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DavidSaavedraDev&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Trofeos de David" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DavidSaavedraDev&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Trofeos de David" />
 </div>
 
 ---
@@ -78,15 +78,14 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidSaavedraDev&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=1800" height="180" alt="Estadísticas de David" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSaavedraDev&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=1800" height="180" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.shion.dev/api?username=DavidSaavedraDev&show_icons=true&theme=midnight-purple&hide_border=true" height="180" alt="Estadísticas de David" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DavidSaavedraDev&layout=compact&theme=midnight-purple&hide_border=true" height="180" alt="Lenguajes más usados" />
   
   <br><br>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidSaavedraDev&theme=midnight-purple&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e6edf3&sideLabels=e6edf3" alt="Racha de commits" />
 </div>
 
----
 ---
 
 ## 🎯 Proyectos Destacados
